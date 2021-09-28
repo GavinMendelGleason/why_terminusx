@@ -1,4 +1,4 @@
-# Why TerminusX
+# [Why TerminusX](https://terminusdb.com/)
 
 I feel some relief and a lot of trepidation that I'm finally seeing
 the launch of the TerminusX cloud service. Some very long nights and
