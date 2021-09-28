@@ -110,7 +110,11 @@ difficulties with concepts of identity etc. These former attempts did
 not succeed but they gave us great information as to what *might*
 succeed in the future.
 
-An inter-connected, browsable system of data should be possible.
+We have learned those lessons, and now I hope we have learned the
+lessons from our users.
+
+An inter-connected, browsable system of data should be made easy for
+developers using the kind of tools they are already comfortable with.
 
 I feel like we are finally approaching that future.
 
