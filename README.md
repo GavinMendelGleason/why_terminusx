@@ -95,7 +95,7 @@ might write in a programming language).
 
 It's very early days, but *internally* to the team, the traction has
 already been noticable. Many more of our staff have built complex
-knowldge graphs using our software. We have also trialed the software
+knowledge graphs using our software. We have also trialed the software
 with some private beta users, and the feedback has already been
 encouraging.
 
